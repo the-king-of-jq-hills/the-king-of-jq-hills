@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marsian
-- 👀 I’m interested in CSS, HTML, Java Script, React, JQuery, PHP, MySQL
+- 👀 I’m into CSS, HTML, Java Script, React, JQuery, PHP, MySQL
 - 🌱 I’m always learning and curious
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Just mail me
